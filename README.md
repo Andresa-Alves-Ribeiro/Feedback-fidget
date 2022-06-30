@@ -7,17 +7,17 @@ O objetivo deste evento foi ensinar e compartilhar conhecimentos sobre frontend,
 
 A lista de tecnologias que eles mais usam é React, React Native e Node.
 
-Este 2022, criamos um widget para permitir que os usuários enviem um feedback. Este repositório contém a interface com o usuário da web do widget.
+Este 2022, criamos um widget para permitir que os usuários enviem um feedback. Este repositório contém a interface web com o widget.
 
 
-# Layout
+## Layout
 
 Você pode encontrar o layout deste projeto [neste link](https://www.figma.com/community/file/1102912516166573468).
 
 Você deve criar uma conta para acessar e visualizar.
 
 
-# Tecnologias
+## Tecnologias
 
 - [React](https://www.typescriptlang.org/docs/)
 - [Vite](https://vitejs.dev/guide/)
@@ -26,9 +26,9 @@ Você deve criar uma conta para acessar e visualizar.
 - [Axios](https://axios-http.com/docs/intro)
 
 
-## Site
+## Vercel site
 
-
+http://nlw-return-impulse-web-gold.vercel.app/
 
 
 ## Clone repositorio
@@ -64,13 +64,3 @@ Abra o terminal e execute o seguinte comando:
 
 MIT
 
-
-
-
-
-
-
-
-
-
-Projeto criado durante a semana Impulse da Rocketseat.
