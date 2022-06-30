@@ -26,6 +26,11 @@ Você deve criar uma conta para acessar e visualizar.
 - [Axios](https://axios-http.com/docs/intro)
 
 
+## Site
+
+
+
+
 ## Clone repositorio
 
 Crie e vá para o diretório onde você deseja colocar o repositório
@@ -37,7 +42,7 @@ Crie e vá para o diretório onde você deseja colocar o repositório
 Clone o projeto
 
 ```bash
-  git clone https://github.com/pncsoares/nlw-return-impulse-web.git
+  git clone https://github.com/Andresa-Alves-Ribeiro/NLW-Return-Impulse-web.git
 ```
 
 Vá para o diretório do projeto
