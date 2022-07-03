@@ -1,11 +1,9 @@
-# RocketSeat | Next Level Week Return | Impulse team
+# Feedback widget
 
 
 [Next Level Week](https://nextlevelweek.com) é um evento anual criado pela [RocketSeat](https://www.rocketseat.com.br/sobre).
 
 O objetivo deste evento foi ensinar e compartilhar conhecimentos sobre frontend, backend e aplicativos móveis.
-
-A lista de tecnologias que eles mais usam é React, React Native e Node.
 
 Este 2022, criamos um widget para permitir que os usuários enviem um feedback. Este repositório contém a interface web com o widget.
 
