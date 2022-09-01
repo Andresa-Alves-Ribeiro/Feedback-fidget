@@ -10,13 +10,6 @@ O objetivo deste evento foi ensinar e compartilhar conhecimentos sobre frontend,
 Este 2022, criamos um widget para permitir que os usuários enviem um feedback. Este repositório contém a interface web com o widget.
 
 
-## Layout
-
-Você pode encontrar o layout deste projeto [neste link](https://www.figma.com/community/file/1102912516166573468).
-
-Você deve criar uma conta para acessar e visualizar.
-
-
 ## Tecnologias
 
 - [React](https://www.typescriptlang.org/docs/)
@@ -26,12 +19,13 @@ Você deve criar uma conta para acessar e visualizar.
 - [Axios](https://axios-http.com/docs/intro)
 
 
-## Vercel site
+## 🖥️ Como visualizar meu projeto?
 
-http://nlw-return-impulse-web-gold.vercel.app/
+Você pode acessar o link abaixo e visualizar o deploy:
 
+https://rocketq-app.herokuapp.com/
 
-## Clone repositorio
+ou
 
 Crie e vá para o diretório onde você deseja colocar o repositório
 
@@ -51,16 +45,22 @@ Vá para o diretório do projeto
   cd nlw-return-impulse-web
 ```
 
-
-## Iniciar a aplicação web
-
 Abra o terminal e execute o seguinte comando:
 
 ```bash
   npm run dev
 ```
 
-# Licença
+## 🔖 Layout
 
-MIT
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1102912516166573468). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+
+---
+
+<p align="center">
+  Feito com ♥ by Andresa A Ribeiro :wave:
+</p>
